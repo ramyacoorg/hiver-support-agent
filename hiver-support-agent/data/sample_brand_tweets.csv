@@ -1,0 +1,37 @@
+tweet_id,author_id,inbound,created_at,text,response_tweet_id,in_response_to_tweet_id
+1,cust1,True,2026-01-05 09:12:00,"@AmazonHelp my order #4521 still says processing after 6 days, where is it?",2,
+2,AmazonHelp,False,2026-01-05 09:20:00,@cust1 Sorry for the delay! Can you DM us your order number so we can check the carrier status?,,1
+3,cust2,True,2026-01-05 10:01:00,"@AmazonHelp package arrived completely crushed, the box was destroyed and item inside is broken",4,
+4,AmazonHelp,False,2026-01-05 10:10:00,@cust2 So sorry to hear that! We'll get a free replacement shipped out. Please DM your order ID.,,3
+5,cust3,True,2026-01-05 11:15:00,"@AmazonHelp I want a refund for order #7788, item was not as described",6,
+6,AmazonHelp,False,2026-01-05 11:30:00,@cust3 We can process that refund. Please DM your order number and reason and we'll start it right away.,,5
+7,cust4,True,2026-01-05 12:00:00,"@AmazonHelp can't log into my account, it keeps saying invalid password even after reset",8,
+8,AmazonHelp,False,2026-01-05 12:05:00,"@cust4 Let's fix that. Please try clearing your browser cache and reset again, or DM us your email for help.",,7
+9,cust5,True,2026-01-05 13:22:00,"@AmazonHelp need to cancel order #9931 before it ships, is that possible?",10,
+10,AmazonHelp,False,2026-01-05 13:30:00,@cust5 If it hasn't shipped yet we can cancel it. DM your order number and we'll take care of it.,,9
+11,cust6,True,2026-01-05 14:10:00,"@AmazonHelp still waiting on my package, tracking hasn't updated in 5 days",12,
+12,AmazonHelp,False,2026-01-05 14:20:00,"@cust6 Apologies for the wait, tracking can lag. DM your order number so we can check with the carrier directly.",,11
+13,cust7,True,2026-01-05 15:00:00,"@AmazonHelp the item I received is damaged, screen is cracked out of the box",14,
+14,AmazonHelp,False,2026-01-05 15:05:00,"@cust7 That's not okay, we'll send a replacement free of charge. Please DM your order ID.",,13
+15,cust8,True,2026-01-05 16:40:00,"@AmazonHelp I was charged twice for order #3345, please refund the duplicate charge",16,
+16,AmazonHelp,False,2026-01-05 16:50:00,@cust8 We'll fix that duplicate charge right away. DM your order number and the two charge amounts.,,15
+17,cust9,True,2026-01-05 17:10:00,"@AmazonHelp locked out of my account after too many login attempts, how do I unlock it?",18,
+18,AmazonHelp,False,2026-01-05 17:15:00,"@cust9 Please wait 30 minutes and try again, or DM your account email and we can manually unlock it.",,17
+19,cust10,True,2026-01-05 18:05:00,"@AmazonHelp order says delivered but I never received it, where is my package?",20,
+20,AmazonHelp,False,2026-01-05 18:10:00,"@cust10 Sorry about that! Please check with neighbors/building office first, then DM your order number if not found.",,19
+21,cust11,True,2026-01-06 09:00:00,"@AmazonHelp want to cancel my subscription order, don't need it anymore",22,
+22,AmazonHelp,False,2026-01-06 09:10:00,"@cust11 No problem, DM your order number and we'll cancel the subscription for you.",,21
+23,cust12,True,2026-01-06 10:12:00,"@AmazonHelp box arrived open and half the items missing, this is unacceptable",24,
+24,AmazonHelp,False,2026-01-06 10:20:00,@cust12 Very sorry to hear this. We'll ship the missing items or refund. Please DM your order number.,,23
+25,cust13,True,2026-01-06 11:30:00,"@AmazonHelp order #6612 shipped 8 days ago and still not delivered, this is ridiculous",26,
+26,AmazonHelp,False,2026-01-06 11:40:00,"@cust13 We understand the frustration, DM your order number and we'll escalate with the carrier.",,25
+27,cust14,True,2026-01-06 12:15:00,"@AmazonHelp please refund order #1290, wrong item was sent to me",28,
+28,AmazonHelp,False,2026-01-06 12:25:00,"@cust14 Sorry for the mix up, we'll refund or send the correct item, your choice. DM your order number.",,27
+29,cust15,True,2026-01-06 13:00:00,"@AmazonHelp can I get help resetting my password, reset link isn't arriving in email",30,
+30,AmazonHelp,False,2026-01-06 13:05:00,"@cust15 Check your spam folder first, if it's not there DM your account email and we'll resend it.",,29
+31,cust16,True,2026-01-06 14:20:00,"@AmazonHelp this is the third time my order is delayed, extremely frustrated with this service",32,
+32,AmazonHelp,False,2026-01-06 14:35:00,"@cust16 We completely understand your frustration and want to make this right, DM your order number so we can look into it personally.",,31
+33,cust17,True,2026-01-06 15:00:00,"@AmazonHelp item arrived broken again after a replacement, I want a full refund now",34,
+34,AmazonHelp,False,2026-01-06 15:15:00,"@cust17 We're really sorry this happened twice, DM your order number and we'll process a full refund immediately.",,33
+35,cust18,True,2026-01-06 16:00:00,@AmazonHelp need to change my delivery address before the order ships,36,
+36,AmazonHelp,False,2026-01-06 16:10:00,"@cust18 We may be able to update it if it hasn't shipped, DM your order number and new address ASAP.",,35

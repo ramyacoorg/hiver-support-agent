@@ -1,0 +1,9 @@
+data/twcs.csv
+data/twcs_apple_full.csv
+data/apple_filtered_clean.csv
+data/*_clean.csv
+data/brand_threads_full.csv
+data/brand_threads_full_labelled.csv
+__pycache__/
+*.pyc
+.DS_Store
